@@ -1,0 +1,19 @@
+# macOS
+**/.DS_Store
+
+# IDE
+.idea/**
+**.iml
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Unittest coverage
+coverage.txt
